@@ -1,0 +1,15 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.mainCard {
+  scroll-snap-type: y mandatory;
+}
+
+.mainCardChild {
+  scroll-snap-align: start;
+}
+
+.imgTxt {
+  box-decoration-break: clone;
+}
