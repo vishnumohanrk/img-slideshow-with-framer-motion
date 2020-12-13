@@ -1,5 +1,3 @@
-import * as React from 'react';
-
 import InfoText from '../components/InfoText';
 import MetaHead from '../components/MetaHead';
 import MyImg from '../components/MyImg';
