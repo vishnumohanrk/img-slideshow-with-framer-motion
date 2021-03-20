@@ -1,11 +1,13 @@
 Demo:
 
-![demo gif](.github/demo_1.mp4)
+![demo gif](.github/demo.gif)
+
+[View Deployment](https://framer-motion-slideshow.vercel.app/)
 
 ### Built with
 
 - [NextJS](https://nextjs.org/)
-- [Unsplash API](https://unsplash.com/)
+- [Unsplash API](https://unsplash.com/developers)
 - [Framer Motion](https://www.framer.com/motion/)
 - [TailwindCSS](https://tailwindcss.com/)
 
