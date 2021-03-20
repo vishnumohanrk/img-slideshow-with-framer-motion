@@ -1,6 +1,6 @@
 Demo:
 
-![demo gif](.github/demo.gif)
+![demo gif](.github/demo.webp)
 
 [View Deployment](https://framer-motion-slideshow.vercel.app/)
 
