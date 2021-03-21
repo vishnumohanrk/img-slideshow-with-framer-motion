@@ -1,7 +1,5 @@
 Demo:
 
-![demo gif](.github/demo.webp)
-
 [View Deployment](https://framer-motion-slideshow.vercel.app/)
 
 ### Built with
